@@ -28,6 +28,8 @@ Example:
 x = delta(n + 5) + 2 * delta(n - 2) - 10 * delta(n - 3) + ...
 h = delta(n + 1) + delta(n) + delta(n - 1) + ...
 result = convolve(x, h)
+
+
 2. FFT Spectrum Analysis
 Frequency and amplitude input configurable
 
