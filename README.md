@@ -2,15 +2,6 @@
 ### 📘 Overview
 This project is part of the Signal Processing course in the GSTR 1 – Telecom department. It aims to implement and demonstrate core Digital Signal Processing (DSP) concepts using Python, specifically in a Jupyter Notebook environment.
 
-The work was completed and documented by:
-
-Rhita Mahraz
-
-Fellous Aya
-
-Mohamed Iyad Lahrech
-
-Supervised by: Dr. Raissouni Naoufal
 
 ### 🎯 Objectives
 Understand and implement DSP fundamentals
